@@ -21,6 +21,10 @@ Syntrivo automates the end-to-end creation of high-impact short-form videos (Ree
 
 
 
+https://github.com/user-attachments/assets/667e8a59-a249-4731-a89c-2ea1387e6e86
+
+
+
 <div align="center">
   <video src="./assets/demo.mp4" width="360" controls></video>
 </div>
