@@ -21,9 +21,6 @@ Syntrivo automates the end-to-end creation of high-impact short-form videos (Ree
 
 
 
-https://github.com/user-attachments/assets/3639c47a-7d15-494e-bbc6-44b69a3c421c
-
-
 
 https://github.com/user-attachments/assets/667e8a59-a249-4731-a89c-2ea1387e6e86
 
