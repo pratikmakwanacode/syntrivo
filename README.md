@@ -19,13 +19,15 @@ Syntrivo automates the end-to-end creation of high-impact short-form videos (Ree
 
 ## 🎬 Sample Demonstration
 
+<div align="center">
+  <video src="./assets/demo.mp4" width="360" controls></video>
+</div>
+
 Generated end-to-end via Syntrivo:
 - **Topic:** Quantum Computing
 - **Format:** 9:16 Vertical Video (Shorts / Reels)
 - **Voiceover:** Neural Edge-TTS
 - **Storage Target:** Supabase S3
-
-> Check out the rendered output sample video inside the `/assets` directory or via the cloud storage link.
 
 ---
 
