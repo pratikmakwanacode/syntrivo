@@ -21,7 +21,6 @@ Syntrivo automates the end-to-end creation of high-impact short-form videos (Ree
 
 
 
-
 <div align="center">
   <video src="./assets/demo.mp4" width="360" controls></video>
 </div>
@@ -49,3 +48,7 @@ Generated end-to-end via Syntrivo:
 ```bash
 git clone [https://github.com/pratikmakwanacode/syntrivo.git](https://github.com/pratikmakwanacode/syntrivo.git)
 cd syntrivo
+
+
+https://github.com/user-attachments/assets/ec419882-a3c3-4998-97ef-1a6de0d64f4c
+
